@@ -1,6 +1,6 @@
 {
   "name": "@we-make-websites/themekit",
-  "version": "1.2.1",
+  "version": "1.3.1-beta.0",
   "description": "Node wrapper around Theme Kit",
   "homepage": "https://github.com/Shopify/node-themekit",
   "repository": "git://github.com/Shopify/node-themekit.git",
