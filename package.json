@@ -2,8 +2,8 @@
   "name": "@we-make-websites/themekit",
   "version": "1.4.0",
   "description": "Node wrapper around Theme Kit",
-  "homepage": "https://github.com/Shopify/node-themekit",
-  "repository": "git://github.com/Shopify/node-themekit.git",
+  "homepage": "https://github.com/we-make-websites/themekit",
+  "repository": "https://github.com/we-make-websites/themekit",
   "author": "Craig Baldwin and Shopify Inc.",
   "license": "MIT",
   "bin": {
