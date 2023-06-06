@@ -2,6 +2,14 @@
 
 Themekit uses [semantic versioning](https://semver.org/).
 
+## 1.4.1 - 2023-06-06
+
+* Fixed security issues
+
+## 1.4.0 - 2023-04-04
+
+* Moved dependency to GitHub
+
 ## 1.3.1 - 2023-01-31
 
 * Copied [Shopify's updates](https://github.com/Shopify/themekit/releases/tag/v1.3.1)
