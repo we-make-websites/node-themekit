@@ -2,6 +2,10 @@
 
 Themekit uses [semantic versioning](https://semver.org/).
 
+## 1.4.2 - 2023-07-20
+
+* Fixed security issues
+
 ## 1.4.1 - 2023-06-06
 
 * Fixed security issues
