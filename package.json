@@ -1,6 +1,6 @@
 {
   "name": "@we-make-websites/themekit",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "description": "Node wrapper around Theme Kit",
   "homepage": "https://github.com/we-make-websites/themekit",
   "repository": "https://github.com/we-make-websites/themekit",
@@ -11,12 +11,12 @@
   },
   "main": "index.js",
   "devDependencies": {
-    "jest": "28.1.0",
-    "mock-fs": "5.1.2"
+    "jest": "29.7.0",
+    "mock-fs": "5.2.0"
   },
   "dependencies": {
     "bin-wrapper": "4.1.0",
-    "minimist": "1.2.6",
+    "minimist": "1.2.8",
     "simple-spinner": "0.0.5"
   },
   "scripts": {
