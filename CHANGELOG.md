@@ -2,6 +2,10 @@
 
 Themekit uses [semantic versioning](https://semver.org/).
 
+## 1.7.0 - 2024-03-??
+
+* Updated to latest Shopify version
+
 ## 1.6.2 - 2023-11-01
 
 * Fixed Node version issues by removing `engines` property
