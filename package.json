@@ -1,6 +1,6 @@
 {
   "name": "@we-make-websites/themekit",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Node wrapper around Theme Kit",
   "homepage": "https://github.com/we-make-websites/themekit",
   "repository": "https://github.com/we-make-websites/themekit",
@@ -18,9 +18,6 @@
     "bin-wrapper": "4.1.0",
     "minimist": "1.2.8",
     "simple-spinner": "0.0.5"
-  },
-  "engines": {
-    "node": "^18.18.2"
   },
   "scripts": {
     "postinstall": "node ./lib/cli.js install",
