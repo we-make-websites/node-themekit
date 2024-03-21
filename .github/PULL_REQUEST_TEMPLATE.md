@@ -1,12 +1,7 @@
-### What are you trying to accomplish with this PR?
-
-*Please provide a link to the associated GitHub issue.*
 
 
-### Checklist
-For contributors:
-- [ ] I have updated the documentation in the [README file](https://github.com/Shopify/node-themekit/blob/master/README.md) to reflect these changes, if applicable.
-
-For maintainers:
-- [ ] I have :tophat:'d these changes.
-- [ ] I have bumped the `package.json` version in a separate PR, if applicable.
+### Warn Checklist
+- [ ] This changes the interface and requires a Major/Minor version change.
+- [ ] I have :tophat:'d these changes by using the commands I changed by hand.
+- [ ] I have added a dependency to the project.
+- [ ] I have considered any potential impact on [node-themekit](https://github.com/Shopify/node-themekit)

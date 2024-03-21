@@ -1,3 +1,22 @@
+build/
+nanoc/
+.env
+tags
+.DS_Store
+
+# for testing
+coverage.out
+coverage.txt
+
+# for docs
+docs/_site/
+docs/.sass-cache/
+docs/.jekyll-metadata
+.jekyll-cache/
+
+# created when using mitm_proxy
+themekit_dump
+
 # Logs
 logs
 *.log
