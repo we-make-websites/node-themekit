@@ -2,7 +2,7 @@
 
 Themekit uses [semantic versioning](https://semver.org/).
 
-## 1.7.0 - 2024-03-??
+## 1.7.0 - 2024-04-29
 
 * Updated to latest Shopify version
 
